@@ -1,12 +1,12 @@
-body{
- background-image: url("bg.jpg");
-}
+
 
 
 .header h1,h4{
-color : White;
+color : white;
 text-align : center;
 padding : 5px;
+border-style: solid;
+background: red;
 }
 
 .header{
@@ -78,7 +78,7 @@ position:absolute;
   left:50%;
   margin-top:-50px;  
   margin-left:-100px;
-  background-color :  #00ff00;}
+  background-color :  #F5F5DC;}
   
   .textbox {
   position:absolute;
@@ -86,10 +86,14 @@ position:absolute;
   left:30%;
   margin-top:-50px;  
   margin-left:-100px;
-  background-color :  #00ff00;
+  background-color :  #F5F5DC;
   
   
   
+  }
+  
+.text{
+ text-align: center;
   }
   
  .table{
